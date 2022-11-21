@@ -1,1 +1,11 @@
 EFI Folder with OSX Ventura Support for INTEL NUC7ixBNH ones, uses Opencore 0.8.6
+
+Also the EFI can be used for osx Monterey and inplace upgrades from there to Ventura
+No issues so far, Wifi works
+
+My configuration
+
+Intel NUC7i3BNH
+16GB RAM
+256GB Samsung M2.nvme
+
